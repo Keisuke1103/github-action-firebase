@@ -32,5 +32,5 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_EVALUATION_8D37A }}'
-          projectId: your-Firebase-project-ID
           projectId: evaluation-8d37a
+          channelId: live
