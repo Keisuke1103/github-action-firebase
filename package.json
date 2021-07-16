@@ -1,0 +1,14 @@
+{
+  "name": "github-action-firebase",
+  "version": "1.0.0",
+  "description": "sutudy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keisuke.wada",
+  "license": "ISC",
+  "devDependencies": {
+    "firebase-tools": "^9.14.0"
+  }
+}
